@@ -1,3 +1,0 @@
-git add android/app/build.gradle
-git commit -m "Add missing app-level build.gradle"
-git push origin main
