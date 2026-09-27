@@ -9,4 +9,4 @@ workflows:
         script: |
           flutter build apk --debug
     artifacts:
-      - build/app/outputs/flutter-apk/*.apk
+      - build/app/outputs/flutter-apk/app-debug.apk
